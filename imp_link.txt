@@ -1,0 +1,1 @@
+http://www.c-sharpcorner.com/article/how-to-connect-mysql-with-asp-net-core/
